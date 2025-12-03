@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+  bot:
+    build: .
+    environment:
+      ENVIRONMENT: development
+      SYMBOL: KAS/USDT
+      BASE_ASSET: KAS
+      QUOTE_ASSET: USDT
+      SPREAD_BPS: 8.0
+      ORDER_SIZE: 200.0
+      INVENTORY_TARGET_PCT: 0.5
+      MAX_INVENTORY_PCT: 0.8
+      EXCHANGE__NAME: mexc
+      EXCHANGE__API_KEY: changeme
+      EXCHANGE__SECRET_KEY: changeme
+      EXCHANGE__PASSWORD: ""
+      EXCHANGE__TESTNET: "false"
+      METRICS_HOST: 0.0.0.0
+      METRICS_PORT: 9301
+      LOG_LEVEL: INFO
+    ports:
+      - "9301:9301"
+
+
